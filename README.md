@@ -4,6 +4,14 @@ We built **Git Explorer** to solve a problem every non-technical person in tech 
 
 ---
 
+## 🤖 Click the link below to see it in action & learn more about this project
+
+<a href="https://git-explorer-v1.vercel.app/?repos=https://github.com/aloknathyadav2010/GitExplorer-Demo&questions=What%20does%20this%20project%20do%3F,How%20does%20the%20chatbot%20work%3F,Show%20me%20the%20main%20components" target="_blank" rel="noopener noreferrer">**👉 Click here to start chatting with the AI assistant about this demo repository.**</a>
+
+Check section below on how to use it.
+
+---
+
 ## 🚨 The Problem
 
 AI has hit the gas pedal on development. New frameworks, tools, and projects drop daily.  
@@ -32,14 +40,6 @@ We're not here to replace your deep-dive tools — we help you decide **which pr
 **Bottom line:**  
 Stop drowning in GitHub stars. Start understanding what actually matters.  
 Paste any GitHub URL, ask questions in plain English, and get instant clarity.
-
----
-
-## 🤖 If you don't want to read this long Readme, see how Git Explorer can help
-
-<a href="https://git-explorer-v1.vercel.app/?repos=https://github.com/aloknathyadav2010/GitExplorer-Demo&questions=What%20does%20this%20project%20do%3F,How%20does%20the%20chatbot%20work%3F,Show%20me%20the%20main%20components" target="_blank" rel="noopener noreferrer">**👉 Click here to start chatting with the AI assistant about this demo repository.**</a>
-
-This link opens an interactive chat interface, pre-loaded with **this same GitExplorer-Demo repo**, so the chatbot can answer questions about the README and repo files.
 
 ---
 
