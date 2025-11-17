@@ -1,9 +1,6 @@
 # Git Explorer
 
-We built **Git Explorer** to solve a problem every non-technical person in tech faces:  
-**How do I understand what this code actually does?**
-
-An AI-powered chatbot that allows you to explore and ask questions about one or more public GitHub repositories using the power of Gemini and the GitHub API.
+We built **Git Explorer** to solve a problem every non-technical person in tech faces:  **How do I understand what this Github project actually do?**
 
 ---
 
@@ -51,7 +48,7 @@ Paste any GitHub URL, ask questions in plain English, and get instant clarity.
 You can create a similar chat link for *any* public GitHub repository by adjusting the URL parameters:
 
 ### Required  
-- **`repos`** — A comma-separated list of full GitHub repo URLs.  
+- **`repos`** — A comma-separated list of full GitHub repo URLs. Supports upto 5 repo  
   - Single repo example:  
     `?repos=https://github.com/facebook/react`  
   - Multiple repos example:  
