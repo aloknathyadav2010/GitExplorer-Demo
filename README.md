@@ -70,20 +70,20 @@ To use the chat link for your own fork or app:
 
 ## 👤 Who It's For
 
+### ✅ Developers  
+Building a developer tool ? Git explorer can help you onboard customers without having any documentation. Make your github repo your next revenue source. 
+
 ### ✅ Sales & AEs  
-Cut through competitor marketing BS. Know if that “revolutionary feature” is real or just hype.
+Cut through competitor marketing BS. Compare your product vs competitor and know the key differences.
 
 ### ✅ Product Managers  
 Stop waiting on engineering to explain dependencies. Get answers yourself, ship faster.
 
-### ✅ Founders  
+### ✅ Founders   
 Understand what your team actually built. Make technical decisions with confidence, not blind trust.
 
 ### ✅ Customer Success & Support  
 Answer technical questions without escalating. Look like the expert in every customer call.
-
-### ✅ Recruiters  
-Evaluate candidates properly. Understand the tech stack they claim to know inside-out.
 
 ---
 
