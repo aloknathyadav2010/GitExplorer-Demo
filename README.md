@@ -4,14 +4,6 @@ We built **Git Explorer** to solve a problem every non-technical person in tech 
 
 ---
 
-## 🤖 If you don't want to read this long Readme, see how Git Explorer can help
-
-<a href="https://git-explorer-v1.vercel.app/?repos=https://github.com/aloknathyadav2010/GitExplorer-Demo&questions=What%20does%20this%20project%20do%3F,How%20does%20the%20chatbot%20work%3F,Show%20me%20the%20main%20components" target="_blank" rel="noopener noreferrer">**👉 Click here to start chatting with the AI assistant about this demo repository.**</a>
-
-This link opens an interactive chat interface, pre-loaded with **this same GitExplorer-Demo repo**, so the chatbot can answer questions about the README and repo files.
-
----
-
 ## 🚨 The Problem
 
 AI has hit the gas pedal on development. New frameworks, tools, and projects drop daily.  
@@ -43,6 +35,14 @@ Paste any GitHub URL, ask questions in plain English, and get instant clarity.
 
 ---
 
+## 🤖 If you don't want to read this long Readme, see how Git Explorer can help
+
+<a href="https://git-explorer-v1.vercel.app/?repos=https://github.com/aloknathyadav2010/GitExplorer-Demo&questions=What%20does%20this%20project%20do%3F,How%20does%20the%20chatbot%20work%3F,Show%20me%20the%20main%20components" target="_blank" rel="noopener noreferrer">**👉 Click here to start chatting with the AI assistant about this demo repository.**</a>
+
+This link opens an interactive chat interface, pre-loaded with **this same GitExplorer-Demo repo**, so the chatbot can answer questions about the README and repo files.
+
+---
+
 ## 💡 Use It on Your Own Project
 
 You can create a similar chat link for *any* public GitHub repository by adjusting the URL parameters:
@@ -60,9 +60,9 @@ You can create a similar chat link for *any* public GitHub repository by adjusti
     `&questions=What%20is%20React%3F,How%20do%20I%20install%20it%3F`
 
 ### Deploying Your Own Version  
-To use the chat link for your own fork or app:
+To start a conversation for your own public repository : 
 
-1. Deploy this project to a public URL (Vercel, Netlify, etc.).  
+1. Add a hyperlink with your repo as parameter to start Git Explorer on your own repo.  
 2. Replace the **base URL** in the hyperlink with your deployed app’s URL.  
 3. Update the **`repos`** parameter to point to your desired repository.
 
