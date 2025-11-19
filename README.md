@@ -2,7 +2,7 @@
 
 We built **Git Explorer** to solve a problem every non-technical person in tech faces:  **How do I understand what this Github project actually do?**
 
-<a href="https://git-explorer-v1.vercel.app/?repos=https://github.com/aloknathyadav2010/GitExplorer-Demo&questions=What%20does%20this%20project%20do%3F,How%20does%20the%20chatbot%20work%3F,Show%20me%20the%20main%20components" target="_blank" rel="noopener noreferrer">**👉 Click here to see Git Exploerer in action & ask how it works **</a>
+<a href="https://git-explorer-v1.vercel.app/?repos=https://github.com/aloknathyadav2010/GitExplorer-Demo&questions=What%20does%20this%20project%20do%3F,How%20does%20the%20chatbot%20work%3F,Show%20me%20the%20main%20components" target="_blank" rel="noopener noreferrer">**👉 Click here to see Git Explorer in action & ask how it works **</a>
 
 You can add it to your public repo too.
 
